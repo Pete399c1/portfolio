@@ -3,27 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2026-04-16T23:33:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/reflections/mine-forventninger-til-faget-ai/</loc>
+    <loc>http://localhost:1313/portfolio/reflections/mine-forventninger-til-faget-ai/</loc>
     <lastmod>2026-04-16T23:33:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/aboutai/</loc>
+    <loc>http://localhost:1313/portfolio/aboutai/</loc>
     <lastmod>2026-04-16T23:23:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/reflections/</loc>
+    <loc>http://localhost:1313/portfolio/reflections/</loc>
     <lastmod>2026-04-16T23:23:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/forme/</loc>
+    <loc>http://localhost:1313/portfolio/forme/</loc>
     <lastmod>2026-04-16T23:23:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>http://localhost:1313/portfolio/home/</loc>
     <lastmod>2026-04-16T23:23:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

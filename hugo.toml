@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
+baseURL = 'https://pete399c1.github.io/portfolio/'
+languageCode = 'en-us'
 theme = 'blowfish'
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
