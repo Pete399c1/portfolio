@@ -1,4 +1,3 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'Cases'
 theme = 'blowfish'
