@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/portfolio/reflections/min-chatbot-1/</loc>
+    <lastmod>2026-04-16T23:33:47+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/portfolio/reflections/mine-forventninger-til-faget-ai/</loc>
     <lastmod>2026-04-16T23:33:47+02:00</lastmod>
     <changefreq>monthly</changefreq>

@@ -10,6 +10,16 @@
     <lastBuildDate>Thu, 16 Apr 2026 23:33:47 +0200</lastBuildDate><atom:link href="http://localhost:1313/portfolio/reflections/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Min Doctor Chatbot</title>
+      <link>http://localhost:1313/portfolio/reflections/min-chatbot-1/</link>
+      <pubDate>Thu, 16 Apr 2026 23:33:47 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/reflections/min-chatbot-1/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Overvejelser&#xA;    &lt;div id=&#34;overvejelser&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#overvejelser&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I udviklingen af min chatbot har jeg arbejdet med bruger oplevelsen.&lt;/p&gt;&#xA;&lt;p&gt;I min udviklings process har jeg tænkt over om jeg skulle have kildehenvininger med I&#xA;Chatbottens svar og der fandt jeg det bedre at Chatbotten ikke skulle have det&#xA;da dokumentationen godt kan være lidt tung. Samt at brugeren ikke selv skal clike på&#xA;et link for at få info men i stedet får det på en mere direkte måde.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Mine Forventninger Til Faget Ai</title>
       <link>http://localhost:1313/portfolio/reflections/mine-forventninger-til-faget-ai/</link>
       <pubDate>Thu, 16 Apr 2026 23:33:47 +0200</pubDate>
