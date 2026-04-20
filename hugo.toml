@@ -6,3 +6,9 @@ theme = 'blowfish'
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[[menu.main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/pete399c1"
+weight = 10
