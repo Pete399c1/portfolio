@@ -12,3 +12,9 @@ identifier = "github"
 pre = "github"
 url = "https://github.com/pete399c1"
 weight = 10
+
+[[menu.main]]
+identifier = "youtube"
+pre = "youtube"
+url = "https://www.youtube.com"
+weight = 10
