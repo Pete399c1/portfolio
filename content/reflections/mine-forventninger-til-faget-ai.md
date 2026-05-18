@@ -17,10 +17,10 @@ på et mere teoretisk plan.
 
 ## 3 forventninger
 
--hvordan at virksomheder gør brug af AI.
+- hvordan at virksomheder gør brug af AI.
 
--Hvad der er forsvarligt og lovmæssigt iorden ved træning af AI.
+- hvad der er forsvarligt og lovmæssigt iorden ved træning af AI.
 
--hvilke LLMs der er gode at bruge hvis man gerne vil spare på kræfterne.
+- hvilke LLMs der er gode at bruge hvis man gerne vil spare på kræfterne.
 
 
